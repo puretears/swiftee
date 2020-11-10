@@ -1,0 +1,1 @@
+add_library(Parser parser.cpp ../Common/unicode.cpp)

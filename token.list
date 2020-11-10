@@ -1,0 +1,5 @@
+import people for People
+
+func fn() {
+    var p = "BX"
+}
